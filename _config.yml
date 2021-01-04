@@ -17,8 +17,8 @@ lang: en-US
 title: My Awesome Site
 email:
 description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: # the optional subpath of your site, e.g. "/zhang_hai_qing_wangyesheji_qimoxiangmu"
+url: # the base hostname & protocol for your site e.g. "https://19854548505.github.io"
 author:
   name:
   twitter:
